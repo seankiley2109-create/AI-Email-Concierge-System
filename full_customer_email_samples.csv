@@ -1,0 +1,286 @@
+support-group,subject,body,sentiment,urgency
+Product Consultation,Compatibility of XDR-5000 Wireless Headset with Dell XPS 13,"Hi there,
+
+I’m planning to purchase the XDR-5000 Wireless Headset and want to confirm if it will pair seamlessly with my Dell XPS 13 running Windows 11 Pro (build 22000). Do I need to install any special Bluetooth drivers or software to maintain high-quality audio? Also, does the headset support simultaneous connections to two devices?
+
+Thanks for your help,
+John Smith",neutral,low
+Product Consultation,Excited to buy ProMax 15 UltraBar—warranty question!,"Hello Support Team,
+
+I’ve heard great things about the ProMax 15 UltraBar sound system and can’t wait to get one. The 2-year warranty sounds reassuring—could you let me know exactly what’s covered? For instance, would it replace the unit if I accidentally dropped it during setup or spilled water on it? Also, do you offer an optional 3-year extension?
+
+Thanks a ton,
+Maria Lopez",happy,low
+Product Consultation,Confused between ProCam S2 and S3—need real advice,"Good afternoon,
+
+I’ve been researching the ProCam S2 and S3 digital cameras, but all the spec sheets sound like marketing fluff. Both claim 24 MP and 4K video—what actually makes the S3 worth €200 more? I need honest pros and cons on low-light performance and autofocus speed before I commit.
+
+Frustrated,
+Ling Chen",unhappy,medium
+Product Consultation,Why isn’t TX-100 workbench listed weight limit!?,"Support,
+
+I’ve searched your site for the Titan Ex Workbench (Model TX-100) weight limit and found nothing—it’s absurd. I need to mount my 220 kg milling machine safely. If I buy it and it collapses, who’s liable? Provide the exact load capacity ASAP.
+
+—Ahmed El-Sayed",very unhappy,high
+Product Consultation,Absolute newbie—HomeBrew Go Kit questions,"Hey Team,
+
+I’m completely new to home brewing and absolutely thrilled to try the HomeBrew Go Starter Kit (SKU HB-001). The description sounds beginner-friendly, but I’m nervous about sanitation steps and temperature control. Are step-by-step video tutorials included? Any tips for a first-timer are much appreciated!
+
+Cheers,
+Emma Johnson",happy,low
+Order Support,Unable to select American Express at checkout,"Hello,
+
+I tried to place an order for the SolarCharge 200 Power Bank (Order #23456) but only Visa and PayPal options appear at checkout. I prefer to use my American Express card ending in 1234. Is Amex supported, and if so, how can I enable that option?
+
+Thank you,
+Carlos García",neutral,low
+Order Support,Missing express shipping for order #98765,"Hi there,
+
+I need the SmartLamp Pro delivered by May 30, 2025, but the only option is “Standard (5–7 business days).” That’s too slow for my broadcast event. Why isn’t express available for Berlin? This is frustrating—please fix it.
+
+Mark Taylor",unhappy,medium
+Order Support,Bug in cart: quantity not updating price!,"Hey Support,
+
+I added four EcoTherm Portable Heaters (ETH-45) to my cart, but the total still shows €79.99. I’ve wasted 20 minutes refreshing and switching browsers. This is unacceptable—correct it now.
+
+Mark Taylor",very unhappy,high
+Order Support,"Newsletter promo code ""SPRING25""—help please","Good morning,
+
+I got a promo code ""SPRING25"" in your April newsletter for 25% off the AquaPure Water Filter (#APF-3). I tried applying it at checkout, but I get an ""invalid code"" message. Could you check if it’s still valid and guide me?
+
+Thanks so much!
+Isabella Martinez",happy,low
+Order Support,"International shipping to Toronto, Canada","Support Team,
+
+Do you ship the TerraTable Outdoor Desk (TD-02) to Toronto, Ontario? If so, which carrier do you use, and what’s the estimated delivery time and cost? Also, are there import duties or taxes I should factor in?
+
+Regards,
+David Nguyen",neutral,low
+Technical Assistance,Installation error 0x80070005 on SolarGuard Setup,"Hi Support,
+
+I downloaded SolarGuard Pro v3.2.1 on Windows 10 (Build 19044) and the installer fails with error 0x80070005. I’ve run as admin and disabled antivirus, but no luck. What can I try next?
+
+Thanks,
+Olivia Brown",neutral,medium
+Technical Assistance,Firmware update stops at 60%—this is ridiculous,"Hello,
+
+Updating firmware on my RoboClean X1 (serial RCX1-45211) stalls at 60% every time with no error. I’ve tried three cables and two PCs. This is a nightmare—how do I get a working robot?
+
+Regards,
+Mohamed Hassan",unhappy,high
+Technical Assistance,TrailCam 200 won’t power on—need urgent fix!,"Hey,
+
+I installed a new EN-EL15 clone battery in my TrailCam 200, but it still won’t power on. The charger shows green, so the battery is charged. I’m furious—I need this for an 8 AM shoot tomorrow. Provide a solution immediately.
+
+—Lena Fischer",very unhappy,high
+Technical Assistance,Bluetooth pairing success—but keeps dropping,"Support,
+
+I finally paired my SoundSphere BT (SS-BT8) with my iPhone 12—yay! But it disconnects every 5–10 minutes. Is there a patch or setting tweak I’m missing?
+
+Cheers,
+Raj Patel",happy,medium
+Technical Assistance,Sonoma Beta compatibility for companion app,"Hi,
+
+I’m on macOS 14 Sonoma Beta and the SoundSphere Companion app crashes on launch. Will an update support Sonoma soon, or is there a workaround?
+
+Thanks,
+Hannah Weber",neutral,low
+Shipping and Delivery Updates,"Order #34567 stuck at ""Label Created"" status","Hello,
+
+I ordered the EcoGarden Premium Planter (Order #34567) on May 15, and DHL tracking has been ""Label Created"" since May 17. Has the package actually shipped? Please check and share an updated ETA.
+
+Regards,
+Thomas Müller",neutral,medium
+Shipping and Delivery Updates,Tracking link 404—fix it now!,"Hi Team,
+
+The tracking link for my SmartSip Mug (Order #45678) just shows a 404. This is unacceptable—resend a working URL or I want a refund on shipping fees.
+
+Eva Novak",very unhappy,high
+Shipping and Delivery Updates,Partial delivery for Order #56789—where’s the rest?,"Good afternoon,
+
+I received two boxes today but ordered five UltraFlash LED Strips (Order #56789). Why did three items not arrive? If you’re sending a second shipment, when will it get here? This delay is annoying.
+
+Daniel Petrov",unhappy,medium
+Shipping and Delivery Updates,Reschedule UPS delivery—thank you!,"Hi,
+
+UPS shows my Orion X Desktop PC (Order #67890) for Saturday, June 14. I’m away—could you please reschedule for Monday, June 16 between 10 AM–2 PM? Much appreciated!
+
+Claire Dubois",happy,low
+Shipping and Delivery Updates,Update shipping address on Order #78901,"Hello Support,
+
+I mistakenly used my old address (742 Evergreen Terrace, Berlin) for Order #78901 (Aurora Night Light). Please change it to: 1234 Schiffbauerweg, Apt 7C, 10115 Berlin.
+
+Best,
+Jan Schneider",neutral,low
+Returns and Exchanges Management,Return request for QuickHeat Max (Order #89012),"Hi,
+
+I’d like to return the QuickHeat Max portable heater (Order #89012) purchased May 20 under your 30-day policy. It heats unevenly and feels unsafe. Please send a prepaid return label and packaging instructions.
+
+Thanks,
+Patricia Lopez",neutral,medium
+Returns and Exchanges Management,Easy exchange—small gloves too tight!,"Hello,
+
+Thanks for the ArcticGrip Gloves (Order #90123) arriving so quickly! Unfortunately, size S is too snug. Could I exchange them for size M? I’m in Munich (80331).
+
+Regards,
+Sebastian Klein",happy,low
+Returns and Exchanges Management,Refund delay for returned UltraView Mirror,"Good morning,
+
+I returned my UltraView Smart Mirror (Order #01234) on May 25 via DHL Tracking 321654987, delivered May 28. It’s June 11 and no refund yet—this is frustrating. Please update the refund status.
+
+Anna Gruber",unhappy,medium
+Returns and Exchanges Management,Missing prepaid label for JoyRide Bike,"Hey Support,
+
+I initiated a return for JoyRide Electric Bike (Order #12345) but didn’t receive the prepaid label PDF. Could you resend it to [anna.gruber@example.com]?
+
+Cheers,
+Anna Gruber",neutral,low
+Returns and Exchanges Management,Damaged mugs—demanding immediate exchange!,"Hi,
+
+The Premium Ceramic Mug Set (Order #23456) arrived with two mugs shattered. I’m very unhappy this was shipped without care. I want a replacement pair sent overnight, no questions.
+
+—Michael Becker",very unhappy,high
+Claims and Product Defects,Cracked screen on VisionPad 8 Tablet (Order #34567),"Hello,
+
+My VisionPad 8 Tablet (Order #34567) arrived with a cracked display despite sealed packaging. Please advise on warranty replacement. Serial VP8-998877; I’ve attached photos.
+
+Thanks,
+Julia Meyer",neutral,medium
+Claims and Product Defects,ProGrill heating element failure—warranty claim,"Hi Team,
+
+After only 4 months, the heating element on my ProGrill Electric Grill (PG-2000, SN PG2000-554433) stopped working. This is disappointing for a premium product. How do I file a warranty claim for repair or replacement?
+
+Regards,
+Markus Fischer",unhappy,medium
+Claims and Product Defects,Missing EU power cable—ChargeMaster Elite,"Support,
+
+My ChargeMaster Elite station (Order #45678) arrived without the EU power cable (Part #CM-EU-01). Please ship the missing cable at your earliest convenience.
+
+Best,
+Elena Schmidt",neutral,low
+Claims and Product Defects,AquaFlow Pump keeps shutting off—fix this!,"Hey,
+
+My AquaFlow Aquarium Pump (AF-300) randomly shuts off after 10–15 minutes. I’ve cleaned the filter and checked voltage. This is unacceptable—resolve this defect now or I want a refund.
+
+—Oliver Neumann",very unhappy,high
+Claims and Product Defects,Stitching issue on Laptop Sleeve—quick replacement please,"Good afternoon,
+
+I adore the UrbanCarry Sleeve (Order #56789), but the stitching started to tear after two weeks. Could you send a replacement? I’m happy to ship back the faulty one.
+
+Laura Schröder",happy,low
+Payment and Billing Support,Duplicate €149.99 charge for order #67890,"Hi Billing Team,
+
+I was charged twice (€149.99 each) for Order #67890 (SolarClean Purifier) on June 2, 2025. Please reverse the duplicate charge.
+
+Thanks,
+David Klein",neutral,medium
+Payment and Billing Support,Thanks! Need invoice for reimbursement,"Hello,
+
+Great service so far—could you email me a detailed invoice for Order #78901 (ProLift Screwdriver Kit), including VAT breakdown? My employer needs it for expenses.
+
+Regards,
+Svenja Wagner",happy,low
+Payment and Billing Support,Declined payment retry—alternative method?,"Hey,
+
+My MasterCard ending 5678 was declined twice for Order #89012, despite sufficient funds. This is frustrating. Can you retry or suggest another payment option?
+
+Cheers,
+Philipp Zimmermann",unhappy,medium
+Payment and Billing Support,Update billing address and card details,"Support,
+
+I’ve moved—please update my billing address to Hauptstraße 45, 10117 Berlin, and replace my card with one ending 4321 (expiry 11/26). How can I do this securely?
+
+Best,
+Katrin Meyer",neutral,low
+Payment and Billing Support,Reversing accidental chargeback—urgent!,"Hi,
+
+I accidentally initiated a chargeback on Order #90123 (ArcticGrip Gloves). This is urgent—I need to reverse it and pay €39.99 immediately. Tell me how now!
+
+—Fabian Becker",very unhappy,high
+Customer Account Support,Password reset email never arrived,"Hello,
+
+I requested a password reset for username mjones83 on June 9 but haven’t received the link (checked spam). Can you manually send it or help me log in?
+
+Thanks,
+Michael Jones",neutral,medium
+Customer Account Support,Please merge my duplicate accounts—thanks!,"Hi Team,
+
+I accidentally created two accounts under [anna.schmidt@example.com] (AnnaSchmidt & Anna.S). Can you merge their orders and loyalty points into AnnaSchmidt? Appreciate your help!
+
+Regards,
+Anna Schmidt",happy,low
+Customer Account Support,Phone number update not saving,"Hey,
+
+I tried updating my phone number from +49 160 5551234 to +49 170 8764321 under userID 83745 but it reverts. Please fix this bug.
+
+Cheers,
+Tobias Koch",unhappy,low
+Customer Account Support,Account deletion request under GDPR,"Support Team,
+
+I wish to delete my account (user: petra.mueller92) and all associated data per GDPR. Please confirm once it’s completed.
+
+—Petra Müller",neutral,low
+Customer Account Support,Disable 2FA now—I’m locked out!,"Good morning,
+
+I enabled 2FA on June 1 but lost my authenticator when switching phones. I can’t log in. Disable 2FA immediately on userID 55432 so I can regain access.
+
+Thanks,
+Timo Fischer",very unhappy,high
+Loyalty Programs and Discounts,How to earn points with my first purchase?,"Hi,
+
+I just joined the loyalty program (Member #112233) and bought the UltraSeal Mug (Order #11223). No points showed up—how do I earn and redeem them? Looking forward to perks!
+
+Thanks,
+Julia Klein",happy,low
+Loyalty Programs and Discounts,€20 voucher expired—need reactivation,"Hello,
+
+My €20 voucher VOUCHER20 expired May 10, 2025 while I was hospitalized. Can you extend or reactivate it? I plan to buy the TurboBlend 300 soon.
+
+Regards,
+Leon Schulz",unhappy,low
+Loyalty Programs and Discounts,Gold tier benefits inquiry (Member #445566),"Hey,
+
+I reached Gold tier yesterday (Member #445566). Does that include free express shipping, early sale access, or bonus point multipliers? Please detail my perks.
+
+Cheers,
+Franziska Becker",neutral,low
+Loyalty Programs and Discounts,Loyalty discount not applied—fix invoice!,"Hi Support,
+
+I used my 10% loyalty discount for AeroPure Air Purifier (Order #22334) but invoice shows €129.99 full price. This is unacceptable—correct it now.
+
+Simon Neubauer",very unhappy,medium
+Loyalty Programs and Discounts,Cancel CoffeeClub subscription before renewal,"Hello,
+
+I signed up for CoffeeClub (Order #33445) on June 5 but need to cancel before the next billing. Please confirm cancellation and any prorated refund.
+
+Thanks,
+Nina Richter",neutral,low
+Customer Feedback and Complaints,Feedback: checkout UX is confusing,"Hi,
+
+Your new checkout for the SolarWave LED Lamp (Order #55667) is confusing. The shipping options hide behind a small arrow—I nearly missed express delivery. Please improve clarity.
+
+Best,
+Karim Yilmaz",unhappy,low
+Customer Feedback and Complaints,Complaint: rude agent Laura,"Hello,
+
+Agent Laura was dismissive on June 8 when I called about RoboClean X1 error E23. She rushed me off the call and didn’t help. I want this escalated to a supervisor.
+
+Regards,
+Monica Stevens",very unhappy,high
+Customer Feedback and Complaints,Love the order dashboard—feature suggestion,"Hey team,
+
+I really like the new order dashboard! To make it even better, can you add keyboard shortcuts like “N” for new order and “T” for tracking? It would streamline my workflow.
+
+Cheers,
+Viktor Novak",happy,low
+Customer Feedback and Complaints,Kudos for quick billing fix!,"Hi,
+
+Thanks for refunding my duplicate charge within two hours! Your billing team was prompt and friendly. Great job—keep it up!
+
+—Emily Hartmann",happy,low
+Customer Feedback and Complaints,Suggestion: switch to sustainable packaging,"Hello,
+
+I appreciate your products, but the plastic bubble wrap feels wasteful. Could you consider recycled cardboard inserts or compostable cushioning? It would better align with your eco-friendly message.
+
+Thank you,
+Sven Jansen",neutral,low
